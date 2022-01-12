@@ -2,8 +2,9 @@
 desafio da DIO sobre criação de  primeiro repositório no github  para compartilhamento do meu progresso na plataforma
 
 
-### Materias:
--
+### etapas do botcamp:
+- Lógica de programação 
+- Estrutura de dados
 
 
 ### Links uteis para estudo: 
