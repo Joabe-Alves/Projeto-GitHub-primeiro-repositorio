@@ -10,3 +10,4 @@ desafio da DIO sobre criação de  primeiro repositório no github  para compart
 ### Links uteis para estudo: 
 - https://developer.android.com/courses
 - https://www.gazetadopovo.com.br/vozes/gazzconecta-colab/inovacao-nas-empresas-o-que-esperar-mercado-tecnologia-2022/
+- https://www.dio.me/
